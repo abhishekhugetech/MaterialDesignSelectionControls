@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     SwitchCompat userSwitch;
     AppCompatCheckBox checkBox;
-    //AppCompatRadioButton radioButton;
+    AppCompatRadioButton radioButton;
     RadioGroup radioGroup;
 
 
