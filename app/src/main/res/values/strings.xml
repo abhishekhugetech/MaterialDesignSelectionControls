@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Material Design Selection Controls</string>
+    <string name="switch_off_on">Switch OFF/ON</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="radio_button1">Radio Buttton 1</string>
+    <string name="radio_button2">Radio Buttton 2</string>
+</resources>
